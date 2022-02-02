@@ -1,7 +1,7 @@
 ## Olá mundo, eu sou Caio Gomes:
 - 🔭 Hoje estou trabalhando como FullStack
 - 🌱 Estudando engenharia de software
-- 🔥 Tecnologias: NodeJS, ReactJS, React Native, Typescript, C#
+- 🔥 Tecnologias: NodeJS, ReactJS, React Native, Typescript, Python, C#
 - 📫 Portifolio: http://caiogomesdev.link
 - 😄 Pronouns: ele/ela
 
