@@ -3,8 +3,6 @@
 - 🌱 Estudando engenharia de software
 - 🔥 Tecnologias: NodeJS, ReactJS, React Native, Typescript, Python, C#
 - 📫 Portifolio: http://caiogomesdev.link
-- 😄 Pronouns: ele/ela
-
 ##
 
 <div align="center">
