@@ -2,7 +2,7 @@
 - 🔭 Hoje estou atuando como FullStack
 - 🌱 Estudando engenharia de software
 - 🔥 Tecnologias: NodeJS, ReactJS, React Native, Typescript, Python, C#
-- 📫 Portifolio: http://caiogomesdev.link
+- 📫 Portifolio: [https://caiogomesdev.com](https://www.caiogomesdev.com/)
 ##
 
 <div align="center">
